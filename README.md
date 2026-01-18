@@ -1,7 +1,7 @@
 # Warehouse to IT Support — My Job Transition Journey
 
 ## About me
-I’m transitioning from warehouse operations/admin to IT Support. This repo documents my learning, hands-on labs, and troubleshooting write-ups to show job-ready skills.
+My goal is to transition from warehouse operations/admin to IT Support. This repo documents my learning, hands-on labs, and troubleshooting write-ups to show job-ready skills.
 
 ## What’s inside
 - **Coursera: Microsoft IT Support Specialist** (graded assignments + notes)
